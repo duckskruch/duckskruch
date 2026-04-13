@@ -18,10 +18,10 @@ I focus on AI products that help teams move faster: workflow automation, interna
 | --- | --- |
 | [llm-council](https://github.com/egorkletskov/llm-council) | Fork of Karpathy's LLM Council with task-specific council presets |
 | [self-hosted-ai-starter-kit](https://github.com/egorkletskov/self-hosted-ai-starter-kit) | Fork of n8n's self-hosted AI stack with business automation workflow blueprints |
+| [workflow-builder-template](https://github.com/egorkletskov/workflow-builder-template) | Fork of Vercel's workflow builder with business automation templates for support, revenue, and ops teams |
 | [ai-automation-case-studies](https://github.com/egorkletskov/ai-automation-case-studies) | Business-facing AI automation blueprints and delivery patterns |
 | [ai-ops-eval-lab](https://github.com/egorkletskov/ai-ops-eval-lab) | Evaluation harness for AI workflows, support tasks, and extraction quality |
 | [agent-routing-gateway](https://github.com/egorkletskov/agent-routing-gateway) | Provider routing rules for cost, latency, and reliability-aware inference |
-| [rag-benchmark-studio](https://github.com/egorkletskov/rag-benchmark-studio) | Retrieval benchmark tooling for support and knowledge workflows |
 
 ## Operating Principles
 
