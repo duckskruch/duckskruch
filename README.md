@@ -16,6 +16,7 @@ I focus on AI products that help teams move faster: workflow automation, interna
 
 | Repository | Focus |
 | --- | --- |
+| [blind-llm-arena](https://github.com/egorkletskov/blind-llm-arena) | Private blind battles for comparing LLM providers on business automation tasks |
 | [llm-council](https://github.com/egorkletskov/llm-council) | Fork of Karpathy's LLM Council with task-specific council presets |
 | [minimal-llm-ui](https://github.com/egorkletskov/minimal-llm-ui) | Fork of an Ollama UI with local business workspaces, prompt packs, and operator console UX |
 | [self-hosted-ai-starter-kit](https://github.com/egorkletskov/self-hosted-ai-starter-kit) | Fork of n8n's self-hosted AI stack with business automation workflow blueprints |
@@ -32,7 +33,7 @@ I focus on AI products that help teams move faster: workflow automation, interna
 
 ## Stack
 
-Python, TypeScript, React, FastAPI, Docker, PostgreSQL, LangGraph, LiteLLM, OpenRouter, API integrations, workflow systems, retrieval pipelines, evaluation tooling
+TypeScript, React, Next.js, Python, FastAPI, Docker, PostgreSQL, LangGraph, LiteLLM, OpenRouter, API integrations, workflow systems, retrieval pipelines, evaluation tooling
 
 ## Current Direction
 
