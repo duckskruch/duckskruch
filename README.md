@@ -16,6 +16,7 @@ I focus on AI products that help teams move faster: workflow automation, interna
 
 | Repository | Focus |
 | --- | --- |
+| [agent-context-compiler](https://github.com/egorkletskov/agent-context-compiler) | AI-first CLI that turns repositories into context packs for coding agents |
 | [blind-llm-arena](https://github.com/egorkletskov/blind-llm-arena) | Private blind battles for comparing LLM providers on business automation tasks |
 | [llm-council](https://github.com/egorkletskov/llm-council) | Fork of Karpathy's LLM Council with task-specific council presets |
 | [minimal-llm-ui](https://github.com/egorkletskov/minimal-llm-ui) | Fork of an Ollama UI with local business workspaces, prompt packs, and operator console UX |
